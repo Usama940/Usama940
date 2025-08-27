@@ -1,7 +1,7 @@
 <!-- Professional GitHub Profile README for Usama Aslam -->
 
 <h1 align="center">Hi 👋, I'm Usama Aslam</h1>
-<h3 align="center">Senior Full Stack Developer | MERN Specialist | Scalable Solutions Architect</h3>
+<h3 align="center"> Full Stack Developer | MERN Specialist | Scalable Solutions Architect</h3>
 
 <p align="center">
   <a href="https://github.com/usama940">
