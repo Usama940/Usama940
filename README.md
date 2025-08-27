@@ -13,7 +13,7 @@
 
 ### 🛠 Core Expertise  
 
-<p align="center">
+<p align="center ">
   <img src="https://skillicons.dev/icons?i=js&theme=dark" width="65" title="JavaScript"/>
   <img src="https://skillicons.dev/icons?i=ts&theme=dark" width="65" title="TypeScript"/>
   <img src="https://skillicons.dev/icons?i=react&theme=dark" width="65" title="React.js"/>
@@ -22,9 +22,6 @@
   <img src="https://skillicons.dev/icons?i=mongodb&theme=dark" width="65" title="MongoDB"/>
 </p>
 
-<p align="center">
-  <img src="https://github-widgetbox.vercel.app/api/skills?languages=js,ts,react,nodejs,express,mongodb,docker,aws&includeNames=true&theme=darkmode&animation=true" />
-</p>
 
 ---
 
