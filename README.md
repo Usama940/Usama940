@@ -9,7 +9,7 @@
 
 ---
 
-## 🛠 Core Expertise  
+🛠 Core Expertise  
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,mongodb&theme=dark" height="80"/>
@@ -17,7 +17,7 @@
 
 ---
 
-## 📊 Professional Analytics  
+ 📊 Professional Analytics  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=usama940&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="180" />
@@ -26,7 +26,7 @@
 
 ---
 
-## 🌍 Connect with Me  
+🌍 Connect with Me  
 
 <p align="center">
   <a href="https://www.linkedin.com/in/usamaaslam-pakistan/" target="_blank">
@@ -42,7 +42,7 @@
 
 ---
 
-## ⚡ About Me  
+ ⚡ About Me  
 
 - 🔭 Building and scaling **enterprise-grade web applications** using MERN  
 - 💡 Focused on **system design, performance optimization, clean architecture**  
