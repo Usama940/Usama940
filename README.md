@@ -20,8 +20,6 @@
   <img src="https://skillicons.dev/icons?i=nodejs&theme=dark" width="65" title="Node.js"/>
   <img src="https://skillicons.dev/icons?i=express&theme=dark" width="65" title="Express.js"/>
   <img src="https://skillicons.dev/icons?i=mongodb&theme=dark" width="65" title="MongoDB"/>
-  <img src="https://skillicons.dev/icons?i=docker&theme=dark" width="65" title="Docker"/>
-  <img src="https://skillicons.dev/icons?i=aws&theme=dark" width="65" title="AWS"/>
 </p>
 
 <p align="center">
