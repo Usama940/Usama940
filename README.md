@@ -1,4 +1,4 @@
-<!-- 🚀 Professional GitHub Profile README for Usama Aslam -->
+
 
 <h1 align="center">👋 Hi, I'm <span style="color:#2E8B57">Usama Aslam</span></h1>
 <h3 align="center">🚀 Full Stack Developer | MERN Specialist | Scalable Solutions Architect</h3>
