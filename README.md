@@ -1,7 +1,7 @@
 
 
 <h1 align="center">👋 Hi, I'm <span style="color:#2E8B57">Usama Aslam</span></h1>
-<h3 align="center">🚀 Full Stack Developer | MERN Specialist | Scalable Solutions Architect</h3>
+<h3 align="center">🚀 Full Stack Developer | MERN Specialist | Scalable Solutions</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=2E8B57&center=true&vCenter=true&width=600&lines=Senior+Full+Stack+Developer;MERN+Stack+Expert;Cloud-Native+Solutions;Mentor+%7C+Open+Source+Contributor" alt="Typing SVG" />
